@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\willi\source\repos\Testando Game\Testando Game\main.cpp(46,44): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\willi\source\repos\Testando Game\Testando Game\main.cpp(46,29): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+  Testando Game.vcxproj -> C:\Users\willi\source\repos\Testando Game\x64\Debug\Testando Game.exe
